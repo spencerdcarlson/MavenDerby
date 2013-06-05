@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 04 22:25:27 MST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-013f-12cc-010d-0000045c93f8 
+on database directory /Users/sc/Projects/Eclipse/pinpass/db with class loader sun.misc.Launcher$AppClassLoader@7a9664a1 
+Loaded from file:/Users/sc/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_45-b06-451-11M4406
+user.dir=/Users/sc/Projects/Eclipse/pinpass
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.8.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
